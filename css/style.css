@@ -122,6 +122,7 @@ p {
   gap: 3%;
   align-items: center;
   color: var(--light-grey-color);
+  font-family: "Archivo", sans-serif;
 }
 
 .divFounder p {
@@ -129,6 +130,7 @@ p {
   font-weight: 100;
   margin-top: 2%;
   color: var(--light-grey-color);
+  font-family: ae;
 }
 
 .directionRow div p,
